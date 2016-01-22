@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="btn1_title">Add Attendance</string>
+    <string name="btn2_title">View Info</string>
+    <string name="btn3_title">Correction</string>
+
+</resources>

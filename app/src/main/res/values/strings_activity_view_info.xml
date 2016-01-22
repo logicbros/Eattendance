@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="l1">Enrollment No: </string>
+    <string name="l2">First Name: </string>
+    <string name="l3">Last Name: </string>
+    <string name="l4">Father Name: </string>
+    <string name="l5">Semester: </string>
+    <string name="l6">Shift: </string>
+    <string name="l7">Division: </string>
+    <string name="l8">Batch: </string>
+    <string name="l9">Date Of Birth: </string>
+    <string name="l10">Date Of Join: </string>
+    <string name="l11">Gender: </string>
+    <string name="l12">Contact No 1: </string>
+    <string name="l13">Contact No 2: </string>
+    <string name="l14">Email Address: </string>
+    <string name="action_view_info">View Info </string>
+
+
+
+</resources>
